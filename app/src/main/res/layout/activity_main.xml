@@ -4,4 +4,22 @@
     android:name="com.udacity.gradle.builditbigger.MainActivityFragment"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:layout="@layout/fragment_main" />
+    tools:layout="@layout/fragment_main">
+
+    <LinearLayout
+        android:id="@+id/linlaHeaderProgress"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:gravity="center"
+        android:orientation="vertical"
+        android:visibility="gone" >
+
+        <ProgressBar
+            android:id="@+id/loading"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            />
+    </LinearLayout>
+
+</fragment>

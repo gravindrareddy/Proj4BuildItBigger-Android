@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/FinalProject.iml" filepath="$PROJECT_DIR$/FinalProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Proj4BuildItBigger-Android.iml" filepath="$PROJECT_DIR$/Proj4BuildItBigger-Android.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jokeconsumerandroidlib/jokeconsumerandroidlib.iml" filepath="$PROJECT_DIR$/jokeconsumerandroidlib/jokeconsumerandroidlib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jokegeneratorjavalib/jokegeneratorjavalib.iml" filepath="$PROJECT_DIR$/jokegeneratorjavalib/jokegeneratorjavalib.iml" />
     </modules>
   </component>
 </project>
