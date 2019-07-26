@@ -27,10 +27,10 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="library" exported="" scope="PROVIDED" name="converter-gson-2.1.0" level="project" />
-    <orderEntry type="library" exported="" scope="PROVIDED" name="retrofit-2.3.0" level="project" />
-    <orderEntry type="library" exported="" scope="PROVIDED" name="gson-2.7" level="project" />
-    <orderEntry type="library" exported="" scope="PROVIDED" name="okhttp-3.8.0" level="project" />
-    <orderEntry type="library" exported="" scope="PROVIDED" name="okio-1.13.0" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: converter-gson-2.1.0" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: retrofit-2.3.0" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: okhttp-3.8.0" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: gson-2.7" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: okio-1.13.0" level="project" />
   </component>
 </module>

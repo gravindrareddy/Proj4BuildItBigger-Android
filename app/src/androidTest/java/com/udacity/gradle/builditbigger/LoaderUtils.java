@@ -1,7 +1,7 @@
 package com.udacity.gradle.builditbigger;
 
-import android.support.v4.content.AsyncTaskLoader;
-import android.support.v4.content.Loader;
+import androidx.loader.content.AsyncTaskLoader;
+import androidx.loader.content.Loader;
 
 import junit.framework.Assert;
 
